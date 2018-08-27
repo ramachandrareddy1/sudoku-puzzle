@@ -1,9 +1,9 @@
 # sudoku-puzzle
 sudoku_puzzle
 
-In this project for solving puzzle i am using "sudoku-solver-js" npm module.
+ Solving sudoku puzzle i am using "sudoku-solver-js" npm module.
 i decleared  the  puzzle variable and assinged the puzzle related values horizantal pazzle values.
-if you don't know any values zero vales.
+if you don't know any values then set that vaules as zero .
 
 
 Ex:
